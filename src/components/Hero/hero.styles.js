@@ -10,7 +10,6 @@ export const HeaderContainer = styled.header`
 `
 
 export const CountdownContainer = styled.div`
-  margin-top: 60px;
   width: 90%;
   position: relative;
   border: 2px solid rgba(0,0,0,0.35);
