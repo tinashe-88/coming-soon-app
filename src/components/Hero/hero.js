@@ -8,7 +8,7 @@ import {
   HeaderContainer,
   CountdownContainer,
   ParagraphContainer,
-  ImageContainer
+  ImageContainer,
 } from './hero.styles'
 
 

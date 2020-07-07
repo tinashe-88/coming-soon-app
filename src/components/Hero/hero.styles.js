@@ -34,6 +34,13 @@ export const ParagraphContainer = styled.p`
   }
 `
 
+export const BlockquoteContainer = styled.p`
+  @media screen and (max-width: 500px){
+    text-align: center; 
+    margin: 0;
+  }
+`
+
 export const ImageContainer = styled.div`
   background-image: url(${headerImage});
   position: absolute;
