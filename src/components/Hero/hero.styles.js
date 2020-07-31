@@ -51,6 +51,6 @@ export const ImageContainer = styled.div`
   opacity: 0.5;
 
   @media screen and (max-width: 500px){
-    height: 900px;
+    height: 950px;
   }
 `
