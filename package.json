@@ -50,5 +50,8 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "resolutions": {
+    "gatsby/**/dot-prop": ">=5.1.1"
   }
 }
