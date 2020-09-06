@@ -23,7 +23,13 @@ const Footer = ({ siteTitle }) => (
       <RightContainer>
         © {new Date().getFullYear()}
         {` `}
-        {siteTitle}
+        <a 
+          href="https://tinashe88.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {siteTitle}
+        </a>
       </RightContainer>
     </ContentContainer>
   </FooterContainer>
